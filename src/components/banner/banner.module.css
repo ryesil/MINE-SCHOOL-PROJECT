@@ -1,0 +1,13 @@
+.karo {
+  top: -1;
+  margin: -1;
+  padding-top: 0;
+}
+
+.pics {
+  top: -1;
+  margin: -1;
+  padding-top: 0;
+  height: 50%;
+  overflow: hidden;
+}

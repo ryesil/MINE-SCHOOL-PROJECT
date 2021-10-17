@@ -1,0 +1,42 @@
+.navbar {
+  padding: 0 12px;
+  margin-top: 0;
+  width: 100%;
+  height: 85px;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style: none;
+  border: none;
+  color: white;
+  background-color: rgba(14, 13, 14, 0.3);
+}
+.whiteSpace {
+  width: 3px;
+  height: 100%;
+  background-color: white;
+}
+
+.navbar .icon {
+  padding: 5px 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  text-align: center;
+}
+
+.bosluksuz {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: rgba(14, 13, 14, 0.3);
+  border: none;
+  color: white;
+}
+
+.navbar .icon:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
